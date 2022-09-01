@@ -9,11 +9,11 @@ i used MySql
 
 requirements run django 
   
-pip install django-cors-headers
+pip install django-cors-headers,
   
-pip install Pillow
-pip install djangorestframework
+pip install Pillow,
+pip install djangorestframework,
   
-pip install flake8
+pip install flake8,
 and 
 python manage.py runserver
